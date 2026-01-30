@@ -10,4 +10,4 @@ Code here reflects my learning journey and experiments
 
 -------------------------------------------------------------------------------------------------------
  ## Tools and Tech
-  - Python, FastAPI,Html,CSS,Javascript
+  - Python, FastAPI,Html,CSS

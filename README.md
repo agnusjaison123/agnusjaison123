@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I am Agnus Jaison
 
-### I am Agnus Jaison
 - Building projects while learning and experimenting with Python.
 
 - Exploring AI, machine learning, and Large Language Models through hands-on work.

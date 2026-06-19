@@ -2,7 +2,7 @@
 
 - Building projects while learning and experimenting with Python.
 
-- Exploring AI, machine learning, and Large Language Models through hands-on work.
+- Exploring AI especially Agentic AI and Machine Learning
 
 - Learning by building, breaking, and improving things.
 
